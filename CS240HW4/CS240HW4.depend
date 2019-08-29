@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1501034157 source:/Users/andrewdelia/Desktop/CS240HW4/main.cpp
+	<iostream>
+	"Stack.h"
+
+1492462438 /Users/andrewdelia/Desktop/CS240HW4/Stack.h
+	<iostream>
+
+1492462460 source:/Users/andrewdelia/Desktop/CS240HW4/Stack.cpp
+	<iostream>
+	"Stack.h"
+

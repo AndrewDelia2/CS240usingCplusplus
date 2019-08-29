@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1502822231 source:/Users/andrewdelia/Desktop/CS240HW7/main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+

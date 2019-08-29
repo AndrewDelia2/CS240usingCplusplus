@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1502136969 source:/Users/andrewdelia/Desktop/CS240HW6/main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+	<numeric>
+

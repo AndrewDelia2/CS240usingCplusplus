@@ -1,0 +1,3 @@
+Hello, this is a test for homework three for the CS240 class.
+Hopefully the program will count the right amount of vowels in this file.
+Hey now

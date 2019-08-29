@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502168274 source:/Users/andrewdelia/Desktop/CS240HW5/main.cpp
+	<iostream>
+	<stack>
+	<queue>
+
